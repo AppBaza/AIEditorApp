@@ -1,6 +1,6 @@
-![image](https://github.com/AppBaza/AIEditorApp/assets/907606/c6037537-7454-45fc-8421-95cbe6d637e4)
-
 # AI Editor: cross-platform desktop app for LLMs and AI APIs
+
+![image](https://github.com/AppBaza/AIEditorApp/assets/907606/c6037537-7454-45fc-8421-95cbe6d637e4)
 
 Universal desktop application for Large Language Models (LLM) and AI APIs.
 
