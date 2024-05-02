@@ -1,4 +1,4 @@
-# AI Editor: cross-platform desktop app for LLMs and AI APIs
+# AI Editor: privacy-first desktop app for AI and LLM APIs
 
 ### [🗄️ Download with auto OS detection](https://AppBaza.github.io/AIEditorApp/download.html) ・ [ℹ️ Learn more about AI Editor](https://www.appbaza.com/aieditor)
 
