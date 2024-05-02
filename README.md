@@ -1,6 +1,6 @@
 # AI Editor: cross-platform desktop app for LLMs and AI APIs
 
-### [ [🗄️ Download with auto OS detection](https://AppBaza.github.io/AIEditorApp/download.html) | [ℹ️ Learn more about AI Editor](https://www.appbaza.com/aieditor) ]
+### [🗄️ Download with auto OS detection](https://AppBaza.github.io/AIEditorApp/download.html) ・ [ℹ️ Learn more about AI Editor](https://www.appbaza.com/aieditor)
 
 ![image](https://github.com/AppBaza/AIEditorApp/assets/907606/c6037537-7454-45fc-8421-95cbe6d637e4)
 
